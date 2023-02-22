@@ -20,6 +20,14 @@ override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
+*.pyc
+.terraform
+compiled/.kapitan_cache
+.idea/*
+.vscode
+.terraform.lock.hcl
+.DS_*
+node_modules
 
 # Include override files you do wish to add to version control using negated pattern
 #
